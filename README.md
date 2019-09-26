@@ -32,7 +32,7 @@ _this example will create `/posts` route , each resource will have `id`, `title`
 
 
 ## Deploy to **Heroku**
-<a href="https://heroku.com/deploy?template=https://github.com/eecs130/json-server-heroku/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/makotoworld/json-server-heroku/tree/master">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
